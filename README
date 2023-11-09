@@ -1,0 +1,17 @@
+# Among Us
+
+Descrição curta do seu projeto.
+
+## Visão Geral
+
+Este projeto foi desenvolvido em grupo com o objetivo de avaliar nossas habilidades de codificação e comunicação com os colegas. O projeto envolve a criação de jogadores para um jogo, com jogadores sendo divididos em "Tripulantes" e "Impostores".
+
+## Funcionalidades
+
+- Criação de jogadores "Tripulantes" e "Impostores".
+- Coleta de informações como nome, cor e acessórios dos jogadores por meio de entrada do usuário.
+- Armazenamento dos jogadores em uma lista.
+- Exibição das informações dos jogadores.
+
+
+
